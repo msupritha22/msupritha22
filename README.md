@@ -14,7 +14,7 @@
 
 ## About Me
 
-I'm an MBA candidate at **IFIM Business School, Bengaluru**, specialising in **Business Analytics** (major) and **Marketing** (minor). Before business school, I spent time in field sales and agro-business operations — which taught me how decisions play out on the ground, not just in spreadsheets.
+I'm an MBA candidate at **IFIM Business School, Bengaluru**, specialising in **Business Analytics** (major) and **Marketing** (minor). Before business school, I spent time in field sales and agro-business operations  which taught me how decisions play out on the ground, not just in spreadsheets.
 
 I now bridge that operational experience with data: building dashboards, writing SQL queries, and segmenting customers to help product and e-commerce teams make sharper decisions.
 
@@ -22,7 +22,7 @@ I'm actively targeting **Business Analyst** and **Data Analyst** roles at produc
 
 ---
 
-## 🛠 Skills & Tools
+##  Skills & Tools
 
 | Category | Tools |
 |---|---|
